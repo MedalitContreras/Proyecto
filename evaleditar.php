@@ -1,3 +1,4 @@
+
 <?php
 $db = new mysqli('localhost','root','','proyecto');
 if($db->connect_errno)
